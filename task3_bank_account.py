@@ -18,7 +18,6 @@ class BankAccount:
     def check_balance(self):
         # TODO: 現在の残高を返す。
         return self.balance
-        pass
 
     def deposit(self,amount):
         print(f"<入金> {self.owner} ← {amount}円")

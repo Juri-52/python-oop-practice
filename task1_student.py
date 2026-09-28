@@ -16,7 +16,6 @@ class Student:
             return True
         else:
             return False
-        pass
 
     def info(self):
         # TODO: 学生の情報を表示する。
